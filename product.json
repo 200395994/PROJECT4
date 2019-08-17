@@ -2,43 +2,39 @@
 	"Head": "",
 	"secondHead": "",
 	"active": true,
-	"greatDeals": [
+	"topDeals": [
         {
-        	"price":129.99 ,
             "name": "",
-			
+			"price": 123.89,
 			"description": "",
-			"features": [
+			"fectures": [
 				"",
-				"Amazing things you can buy",
+				"Greate Gift for cat lovers",
 				"",
-				"You are going to love it"
+				"designed to last"
 			],
 			"image": ""
         },
            {
-
-           	"price": 16.99,
             "name": "",
-			
+			"price": 11.62,
 			"description": " .",
-			"features": [
+			"fectures": [
 				"",
-				"Amazing things you can buy",
 				"",
-				"You are going to love it"
+				"",
+				""
 			],
 			"image": ""
         },
            {
-           	"price":300.00 ,
             "name": "",
-			
+			"price": 11.99 ,
 			"description": "",
-			"features": [
+			"fectures": [
 				"",
-				"buy good ",
-				"Stuff"
+				"Imported",
+				"Tame the Bull"
 				
 			],
 			"image": ""
